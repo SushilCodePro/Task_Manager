@@ -14,7 +14,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/task-manager-app.git
+   (https://github.com/SushilCodePro/Task_Manager.git)
 1. Open the project folder in your code editor.
 
 2. Open index.html in your web browser to use the app.
